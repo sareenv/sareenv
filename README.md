@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sareenv
 - 👀 I’m interested in GANS (Generative Adversarial Networks)
 - 🌱 I’m currently learning Distributed System Design, Machine Learning Algorithms
-- 💞️ I’m looking to collaborate on Deep Learning Projects.
+- 💞️ I’m looking to collaborate on iOS projects.
 - 📫 How to reach me at sareenv026@outlook.com
 
 <!---
