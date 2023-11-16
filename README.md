@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @sareenv
-- 👀 I’m interested in iOS & Web Application Development.
-- 🌱 I’m currently learning Distributed System Design, AWS and GCP.
-- 💞️ I’m looking to collaborate on iOS projects.
-- 📫 How to reach me at contact@sareenv.com | sareenv026@outlook.com  
+# Welcome to My GitHub Profile!
 
-<!---
-sareenv/sareenv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a Full-Stack Software Development Engineer with a passion for iOS mobile and web applications. My expertise is built on a foundation of diverse projects in software architecture, problem-solving, and applied AI. As an AWS-certified Cloud Practitioner, I'm adept in cloud technologies. Learn more about me on my [website](https://sareenv.com/#).
+
+📫 Reach out to me at [contact@sareenv.com](mailto:contact@sareenv.com)!
+
+## 💼 Professional Experience
+
+### Mobile Software Developer Associate at Dayforce, Ceridian
+**Full-Time | July 2023 - Present**
+- Leading design and implementation of mobile applications.
+- Engaging in full software lifecycle management and cross-functional collaboration.
+- Focusing on risk assessment and client engagement for scalable solutions.
+
+### Mobile Software Developer Intern at Dayforce, Ceridian
+**Internship | Jan - Apr 2023**
+- Contributed to new feature development and major updates for mobile platforms.
+- Employed FRP Combine framework with SwiftUI and MVVM architecture.
+- Emphasized quality assurance and collaborative development.
+
+---
+
+🌟 **Check out my repositories and connect for collaboration!**
