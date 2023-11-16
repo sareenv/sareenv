@@ -1,22 +1,24 @@
 # Welcome to My GitHub Profile!
-I'm a Full-Stack Software Development Engineer with a passion for iOS mobile and web applications. My expertise is built on a foundation of diverse projects in software architecture, problem-solving, and applied AI. As an AWS-certified Cloud Practitioner, I'm adept in cloud technologies. Learn more about me on my [website](https://sareenv.com/#).
 
-📫 Reach out to me at [contact@sareenv.com](mailto:contact@sareenv.com)!
+## 🌟 About Me
+Hi there! I'm a Full-Stack Software Development Engineer with a flair for crafting innovative iOS and web applications. With a foundation in software architecture, problem-solving, and applied AI, plus expertise as an AWS-certified Cloud Practitioner, I bring a versatile skill set to the table. Discover more on my [website](https://sareenv.com/#).
 
-## 💼 Professional Experience
+📫 Excited about new opportunities? Let's connect: [contact@sareenv.com](mailto:contact@sareenv.com)!
 
-### Mobile Software Developer Associate at Dayforce, Ceridian
+## 💼 My Journey
+
+### Dayforce, Ceridian - Mobile Software Developer Associate
 **Full-Time | July 2023 - Present**
-- Leading design and implementation of mobile applications.
-- Engaging in full software lifecycle management and cross-functional collaboration.
-- Focusing on risk assessment and client engagement for scalable solutions.
+- Steering mobile app design and implementation projects.
+- Navigating the complete software lifecycle with a keen eye for scalable solutions.
+- Bridging client needs with technical innovation for impactful results.
 
-### Mobile Software Developer Intern at Dayforce, Ceridian
+### Dayforce, Ceridian - Mobile Software Developer Intern
 **Internship | Jan - Apr 2023**
-- Contributed to new feature development and major updates for mobile platforms.
-- Employed FRP Combine framework with SwiftUI and MVVM architecture.
-- Emphasized quality assurance and collaborative development.
+- Pioneered in developing new features and pivotal updates for mobile platforms.
+- Mastered the FRP Combine framework alongside SwiftUI and MVVM architecture.
+- Championed quality assurance, contributing to a robust and error-free codebase.
 
 ---
 
-🌟 **Check out my repositories and connect for collaboration!**
+🌟 **Exploring new horizons? I'm just an email away. Let's innovate together!**
