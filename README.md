@@ -1,6 +1,4 @@
 # Welcome to My GitHub Profile!
-
-## 🚀 About Me
 I'm a Full-Stack Software Development Engineer with a passion for iOS mobile and web applications. My expertise is built on a foundation of diverse projects in software architecture, problem-solving, and applied AI. As an AWS-certified Cloud Practitioner, I'm adept in cloud technologies. Learn more about me on my [website](https://sareenv.com/#).
 
 📫 Reach out to me at [contact@sareenv.com](mailto:contact@sareenv.com)!
