@@ -1,11 +1,9 @@
-# Welcome to My GitHub Profile!
-
-## 🌟 About Me
+## About Me
 Hi there! I'm a Full-Stack Software Development Engineer with a flair for crafting innovative iOS and web applications. With a foundation in software architecture, problem-solving, and applied AI, plus expertise as an AWS-certified Cloud Practitioner, I bring a versatile skill set to the table. Discover more on my [website](https://sareenv.com/#).
 
 📫 Excited about new opportunities? Let's connect: [contact@sareenv.com](mailto:contact@sareenv.com)!
 
-## 💼 My Journey
+## Work Experience
 
 ### Dayforce, Ceridian - Mobile Software Developer Associate
 **Full-Time | July 2023 - Present**
@@ -21,4 +19,4 @@ Hi there! I'm a Full-Stack Software Development Engineer with a flair for crafti
 
 ---
 
-🌟 **Exploring new horizons? I'm just an email away. Let's innovate together!**
+**Exploring new horizons? I'm just an email away. Let's innovate together!**
