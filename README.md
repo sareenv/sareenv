@@ -5,7 +5,7 @@ Hi there! I'm a Full-Stack Software Development Engineer with a flair for crafti
 
 ## Work Experience
 
-### Dayforce, Ceridian - Mobile Software Developer Associate
+### Dayforce - Software Engineer
 **Full-Time | July 2023 - Present**
 - Steering mobile app design and implementation projects.
 - Navigating the complete software lifecycle with a keen eye for scalable solutions.
